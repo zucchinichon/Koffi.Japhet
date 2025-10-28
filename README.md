@@ -18,15 +18,24 @@ Rigoureux, curieux et toujours motivé, j’aime apprendre, expérimenter et com
 
 ## Projets réalisés
 
-### Application de gestion de matériel
-- **Description :** Développement d’une application web permettant la gestion d’un parc matériel avec authentification, sessions, CRUD complet et recherche dynamique.  
-- **Technologies :** PHP, HTML, CSS, MySQL  
-- **Points forts :** Architecture modulaire, interface simple et efficace, sécurité des sessions.
+### [Simulation d’un réseau LAN avec Packet Tracer](https://github.com/zucchinichon/Simulation-LAN)
+- **Description :** Conception et simulation d’un réseau local (LAN) complet dans Cisco Packet Tracer.  
+- **Fonctionnalités :** Configuration des routeurs, switches, postes clients et serveurs, gestion des adresses IP et des VLANs.  
+- **Objectif :** Reproduire un environnement réseau d’entreprise et tester la connectivité entre les différents nœuds.  
+- **Compétences développées :** Routage, adressage, VLAN, diagnostic réseau.
+
 
 ### Étude de mise en place d’une solution Cloud AWS
 - **Description :** Projet académique portant sur la mise en place d’une infrastructure cloud pour une entreprise, avec analyse des coûts, des bénéfices et de la scalabilité d’AWS.  
 - **Livrable :** Mémoire de 70 pages (rédigé en français et partiellement traduit en anglais).  
 - **Compétences développées :** Architecture cloud, sécurité, déploiement, documentation technique.
+
+
+### Application de gestion de matériel
+- **Description :** Développement d’une application web permettant la gestion d’un parc matériel avec authentification, sessions, CRUD complet et recherche dynamique.  
+- **Technologies :** PHP, HTML, CSS, MySQL  
+- **Points forts :** Architecture modulaire, interface simple et efficace, sécurité des sessions.
+
 
 
 ---

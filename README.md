@@ -18,11 +18,17 @@ Rigoureux, curieux et toujours motivé, j’aime apprendre, expérimenter et com
 
 ## Projets réalisés
 
+### [Elixir Exquis Site web](https://github.com/zucchinichon/elixir-exquis-site/tree/master)
+- **Description :** Conception et développement d’un site web vitrine moderne et responsive pour la marque de cocktails Elixir Exquis.
+- **Fonctionnalités :** Design adaptatif (mobile, tablette, desktop), mode sombre, hébergement sur AWS Amplify avec CDN et HTTPS.
+- **Objectif :** Offrir une présentation élégante et professionnelle du projet tout en assurant performance et sécurité.
+- **Compétences développées :** zucchinichon/elixir-exquis-site
+
 ### [Simulation d’un réseau LAN avec Packet Tracer](https://github.com/zucchinichon/Simulation-LAN)
 - **Description :** Conception et simulation d’un réseau local (LAN) complet dans Cisco Packet Tracer.  
 - **Fonctionnalités :** Configuration des routeurs, switches, postes clients et serveurs, gestion des adresses IP et des VLANs.  
 - **Objectif :** Reproduire un environnement réseau d’entreprise et tester la connectivité entre les différents nœuds.  
-- **Compétences développées :** Routage, adressage, VLAN, diagnostic réseau.
+- **Compétences développées :** HTML, CSS, JavaScript, responsive design, déploiement cloud (AWS Amplify), gestion de version avec Git/GitHub.
 
 
 ### Étude de mise en place d’une solution Cloud AWS
